@@ -28,7 +28,7 @@ Este projeto é um gerador de certificados automatizado que permite selecionar u
   ```
 
   ```sh
-  python gerador.py
+  python main.py
   ```
 
 ## 📝 Licença
