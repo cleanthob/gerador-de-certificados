@@ -20,7 +20,7 @@ Este projeto é um gerador de certificados automatizado que permite selecionar u
 ## 🛠️ Abrir e rodar o projeto
 
   ```sh
-  git clone https://github.com/cleanthob/gerador-certificados.git
+  git clone https://github.com/cleanthob/gerador-de-certificados.git
   ```
 
   ```sh
